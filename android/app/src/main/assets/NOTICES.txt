@@ -1,0 +1,20 @@
+Sway Android의 외부 구성요소
+
+NewPipe Extractor v0.26.5 — Team NewPipe — GPL-3.0-or-later
+https://github.com/TeamNewPipe/NewPipeExtractor
+전문: NEWPIPE-LICENSE.txt
+Sway는 Team NewPipe가 배포하거나 후원하는 앱이 아닙니다.
+
+AndroidX / Media3 / Compose — Android Open Source Project — Apache-2.0
+https://github.com/androidx/media
+https://github.com/androidx/androidx
+OkHttp — Square — Apache-2.0
+https://github.com/square/okhttp
+Coil — Coil contributors — Apache-2.0
+https://github.com/coil-kt/coil
+Kotlin / coroutines — JetBrains — Apache-2.0
+https://github.com/JetBrains/kotlin
+
+NewPipe 전이 의존성: nanojson (MIT), jsoup (MIT), JSR-305 (Apache-2.0),
+protobuf-javalite (BSD-3-Clause), Rhino (MPL-2.0).
+사용한 의존성 버전은 app/build.gradle.kts와 Gradle dependency report에 기록합니다.

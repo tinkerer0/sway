@@ -1,0 +1,10 @@
+<resources>
+    <!-- 화면은 블랙 하나다. 앱이 뜨기 전 창 바탕도 같은 검정으로 둔다. -->
+    <style name="Theme.Sway" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowBackground">@color/backdrop</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:colorAccent">#FFFFFF</item>
+    </style>
+    <color name="backdrop">#0A0A0A</color>
+</resources>

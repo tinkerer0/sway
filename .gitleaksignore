@@ -1,0 +1,11 @@
+# Pinned upstream YouTubeKit public client identifiers, not Sway/user credentials.
+# Upstream revision: e5b7d0396ce12bf3444f0d209e8436c83373b7af
+# Exact original InnerTube.swift SHA-256: 25db11ade5a1b588941110debcc73490af9ed8a9c51232725fa35340b41a7b03
+# Re-audit these exact findings when updating the vendored package.
+Vendor/YouTubeKit/Sources/YouTubeKit/InnerTube.swift:gcp-api-key:74
+Vendor/YouTubeKit/Sources/YouTubeKit/InnerTube.swift:gcp-api-key:76
+Vendor/YouTubeKit/Sources/YouTubeKit/InnerTube.swift:gcp-api-key:78
+Vendor/YouTubeKit/Sources/YouTubeKit/InnerTube.swift:gcp-api-key:84
+Vendor/YouTubeKit/Sources/YouTubeKit/InnerTube.swift:gcp-api-key:86
+Vendor/YouTubeKit/Sources/YouTubeKit/InnerTube.swift:gcp-api-key:88
+Vendor/YouTubeKit/Sources/YouTubeKit/InnerTube.swift:gcp-api-key:75

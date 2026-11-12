@@ -1,0 +1,11 @@
+.build/
+.DS_Store
+*.xcodeproj/
+.env*
+.gradle/
+**/build/
+local.properties
+.kotlin/
+*.jks
+*.keystore
+artifacts/

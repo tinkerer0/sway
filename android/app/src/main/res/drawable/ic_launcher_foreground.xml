@@ -1,0 +1,5 @@
+<!-- 재생 중인 곡 옆에 뜨는 표시와 같은 막대 다섯 개(iOS 아이콘과 같은 비율). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <path android:strokeColor="#FFFFFF" android:strokeWidth="5.9" android:strokeLineCap="round" android:fillColor="@android:color/transparent"
+        android:pathData="M35.7,49.2v9.6M44.9,41.8v24.4M54,35.8v36.4M63.1,45v18M72.3,39.4v29.2" />
+</vector>

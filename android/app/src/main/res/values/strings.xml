@@ -1,0 +1,4 @@
+<resources>
+    <string name="offline_channel">받아 두기</string>
+    <string name="offline_channel_description">Wi-Fi에서 재생목록 곡을 받아 두는 진행 상황</string>
+</resources>
